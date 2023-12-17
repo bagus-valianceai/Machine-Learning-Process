@@ -3,4 +3,4 @@ venv_mlprocess/
 5_exploratory_data_analysis/data/
 current_material/data/
 current_material/models/
-src/__pycache__/
+current_material/src/__pycache__/
