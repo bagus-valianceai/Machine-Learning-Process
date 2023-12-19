@@ -11,6 +11,13 @@ y_test_path: data/processed/y_test.pkl
 
 ohe_station_path: models/ohe_stasiun.pkl
 
+minmax_path: models/minmax.pkl
+rmout_minmax_path: models/rmout_minmax.pkl
+
+std_path: models/std.pkl
+rmout_std_path: models/rmout_std.pkl
+minmax_std_path: models/minmax_std.pkl
+rmout_minmax_std_path: models/rmout_minmax_std.pkl
 
 datetime_columns:
 - tanggal
