@@ -1,6 +1,4 @@
 venv_mlprocess/
-4_data_pipeline/data/
-5_exploratory_data_analysis/data/
-current_material/data/
-current_material/models/
-current_material/src/__pycache__/
+data/
+models/
+src/__pycache__/
