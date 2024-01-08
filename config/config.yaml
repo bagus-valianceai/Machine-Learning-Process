@@ -16,13 +16,6 @@ y_valid_prep_path: data/processed/y_valid_prep.pkl
 x_test_prep_path: data/processed/x_test_prep.pkl
 y_test_prep_path: data/processed/y_test_prep.pkl
 
-x_train_feateng_1_path: data/processed/x_train_feateng_1.pkl
-y_train_feateng_1_path: data/processed/y_train_feateng_1.pkl
-x_valid_feateng_1_path: data/processed/x_valid_feateng_1.pkl
-y_valid_feateng_1_path: data/processed/y_valid_feateng_1.pkl
-x_test_feateng_1_path: data/processed/x_test_feateng_1.pkl
-y_test_feateng_1_path: data/processed/y_test_feateng_1.pkl
-
 ohe_station_path: models/ohe_stasiun.pkl
 
 minmax_path: models/minmax.pkl
